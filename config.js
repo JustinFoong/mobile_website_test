@@ -35,7 +35,7 @@ const config = {
   },
 
   // 📸 Recap Page
-  recapTitle: "Let's recap our time together", // Title for the recap page
+  recapTitle: "Let's recap our time togetherr", // Title for the recap page
   clickMeText: "Click me!", // Text prompting users to interact
 
   recapSections: [
